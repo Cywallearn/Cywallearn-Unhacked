@@ -1,0 +1,3 @@
+# Cywallearn Unhacked - Password Generator
+# Zero external dependencies! Uses only Python standard library.
+# No requirements needed - Python 3.6+ is all you need.
